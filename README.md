@@ -1,6 +1,6 @@
 # Browser Selector
 
-**Browser Selector** is a simple GUI application for Windows that allows users to choose between two predefined browsers or commands to open a specified URL or application. Built with `wxPython`, this lightweight tool provides an intuitive interface with two buttons, each representing a browser or command, so users can easily select their preferred option.
+**Browser Selector** is a simple GUI application for Windows that allows users to choose between two predefined browsers to open a specified URL or application. Built with `wxPython`, this lightweight tool provides an intuitive interface with two buttons, each representing a browser, so users can easily select their preferred option.
 
 ## Features
 
